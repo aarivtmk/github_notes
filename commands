@@ -1,0 +1,19 @@
+Stages: 
+Working directory:  Unstage
+Staging : after adding files
+Commit stage : after commiting
+push
+
+git init : to start the git, so git can track the project
+git status
+git add <filename>
+Git add . 
+To add all the files to staging
+Git commit -m “commit message”
+Git log
+Git log – oneline
+Git add . & git commit -m “”   —>> git commit -am “message name”
+Git commit 
+git config --global core.editor "code --wait"
+Git restore <filename>
+Git checkout {copy commit }
